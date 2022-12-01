@@ -1,0 +1,21 @@
+body {
+	margin: 0;
+}
+
+header {
+	background-color: lightblue;
+	padding: 1em;
+}
+
+div#main {
+	padding: 1em;
+}
+
+img {
+	width: 60%;
+}
+
+footer {
+	background-color: lightblue;
+	padding: 1em;
+}
