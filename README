@@ -1,0 +1,6 @@
+Blog engine thing
+=================
+
+Hello welcome i made a thing
+
+edit files in the src/ folder, as well as head.htm and foot.htm if you want, then run ./blog.sh and the site will get built in the blog/ folder.
