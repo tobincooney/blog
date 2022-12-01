@@ -1,0 +1,3 @@
+https://example.org
+Your Blog Title
+description for blog (this shows up in the rss feed)
